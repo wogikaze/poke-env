@@ -5,7 +5,7 @@ from poke_env.environment import PokemonType
 
 
 def test_types_correspond_to_type_chart_entries():
-    type_chart = GenData.from_gen(8).type_chart
+    type_chart = GenData.from_gen(9).type_chart
 
     for type_1 in list(PokemonType):
         if type_1 == PokemonType.THREE_QUESTION_MARKS:
@@ -23,7 +23,7 @@ def test_types_correspond_to_type_chart_entries():
 
 
 def test_some_type_weaknesses():
-    type_chart = GenData.from_gen(8).type_chart
+    type_chart = GenData.from_gen(9).type_chart
 
     assert type_chart["WATER"]["WATER"] == 0.5
     assert type_chart["DRAGON"]["FIRE"] == 0.5
@@ -31,7 +31,7 @@ def test_some_type_weaknesses():
 
 
 def test_some_type_strengths():
-    type_chart = GenData.from_gen(8).type_chart
+    type_chart = GenData.from_gen(9).type_chart
 
     assert type_chart["FIRE"]["WATER"] == 2
     assert type_chart["DRAGON"]["DRAGON"] == 2
@@ -39,7 +39,7 @@ def test_some_type_strengths():
 
 
 def test_some_type_immunities():
-    type_chart = GenData.from_gen(8).type_chart
+    type_chart = GenData.from_gen(9).type_chart
 
     assert type_chart["FLYING"]["GROUND"] == 0
     assert type_chart["FAIRY"]["DRAGON"] == 0
