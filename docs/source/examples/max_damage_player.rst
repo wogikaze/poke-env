@@ -6,8 +6,7 @@ Creating a simple max damage player
 The corresponding complete source code can be found `here <https://github.com/hsahovic/poke-env/blob/master/examples/max_damage_player.py>`__.
 
 .. note::
-    A similar example using gen 7 mechanics is available `here <https://github.com/hsahovic/poke-env/blob/master/examples/gen7/max_damage_player.py>`__.
-
+    A similar example using gen 7 mechanics is available `here <https://github.com/hsahovic/poke-env/blob/master/examples/gen7/max_damage_player.py>`__
 The goal of this example is to explain how to create a first custom agent. This agent will follow simple rules:
 
 - If the active pokemon can attack, it will attack and use the move with the highest base power

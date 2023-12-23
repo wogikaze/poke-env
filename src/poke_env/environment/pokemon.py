@@ -526,6 +526,10 @@ class Pokemon:
         """
         if isinstance(type_or_move, Move):
             type_or_move = type_or_move.type
+        if self.terastallized:
+            type_or_move.damage_multiplier(
+                self._terastallized_type, None, type_chart=self._data.type_chart
+            )
         return type_or_move.damage_multiplier(
             self._type_1, self._type_2, type_chart=self._data.type_chart
         )
