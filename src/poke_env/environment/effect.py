@@ -202,6 +202,8 @@ class Effect(Enum):
     WIMP_OUT = auto()
     WRAP = auto()
     YAWN = auto()
+    FICKLE_BEAM = auto()
+    TERA_SHIFT = auto()
     ZERO_TO_HERO = auto()
 
     def __str__(self) -> str:

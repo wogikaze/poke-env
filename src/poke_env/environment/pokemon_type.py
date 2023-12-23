@@ -33,6 +33,7 @@ class PokemonType(Enum):
     ROCK = auto()
     STEEL = auto()
     WATER = auto()
+    STELLAR = auto()
     THREE_QUESTION_MARKS = auto()
 
     def __str__(self) -> str:
