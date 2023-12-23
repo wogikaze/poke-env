@@ -204,6 +204,7 @@ class Effect(Enum):
     YAWN = auto()
     FICKLE_BEAM = auto()
     TERA_SHIFT = auto()
+    TERA_SHELL = auto()
     ZERO_TO_HERO = auto()
 
     def __str__(self) -> str:
