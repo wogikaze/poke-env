@@ -7723,7 +7723,8 @@
     "cresceidon": {
         "abilities": {
             "0": "Multiscale",
-            "1": "Rough Skin"
+            "1": "Rough Skin",
+            "H": "Water Veil"
         },
         "baseStats": {
             "atk": 32,
@@ -7731,11 +7732,12 @@
             "hp": 80,
             "spa": 88,
             "spd": 99,
-            "spe": 125
+            "spe": 124
         },
         "color": "Blue",
         "eggGroups": [
-            "Undiscovered"
+            "Amorphous",
+            "Water 3"
         ],
         "gen": 9,
         "heightm": 10,
@@ -15170,9 +15172,6 @@
         "heightm": 3.5,
         "name": "Gouging Fire",
         "num": 1020,
-        "tags": [
-            "Paradox"
-        ],
         "types": [
             "Fire",
             "Dragon"
@@ -17834,9 +17833,6 @@
         "heightm": 1.5,
         "name": "Iron Boulder",
         "num": 1022,
-        "tags": [
-            "Paradox"
-        ],
         "types": [
             "Rock",
             "Psychic"
@@ -17892,9 +17888,6 @@
         "heightm": 1.6,
         "name": "Iron Crown",
         "num": 1023,
-        "tags": [
-            "Paradox"
-        ],
         "types": [
             "Steel",
             "Psychic"
@@ -27275,7 +27268,7 @@
         "gender": "N",
         "heightm": 0.3,
         "name": "Pecharunt",
-        "num": 1024,
+        "num": 1025,
         "tags": [
             "Mythical"
         ],
@@ -30537,9 +30530,6 @@
         "heightm": 5.2,
         "name": "Raging Bolt",
         "num": 1021,
-        "tags": [
-            "Paradox"
-        ],
         "types": [
             "Electric",
             "Dragon"

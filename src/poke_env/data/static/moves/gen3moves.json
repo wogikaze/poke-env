@@ -9,6 +9,7 @@
             2
         ],
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -26,6 +27,7 @@
         "category": "Special",
         "contestType": "Clever",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -51,6 +53,7 @@
         "category": "Status",
         "contestType": "Tough",
         "flags": {
+            "metronome": 1,
             "snatch": 1
         },
         "name": "Acid Armor",
@@ -72,6 +75,7 @@
         "flags": {
             "contact": 1,
             "distance": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1,
             "slicing": 1
@@ -92,6 +96,7 @@
         "critRatio": 2,
         "flags": {
             "distance": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1,
             "wind": 1
@@ -113,6 +118,7 @@
         "category": "Status",
         "contestType": "Cool",
         "flags": {
+            "metronome": 1,
             "snatch": 1
         },
         "name": "Agility",
@@ -133,6 +139,7 @@
         "contestType": "Cool",
         "critRatio": 2,
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1,
             "slicing": 1,
@@ -155,6 +162,7 @@
         "category": "Status",
         "contestType": "Cute",
         "flags": {
+            "metronome": 1,
             "snatch": 1
         },
         "name": "Amnesia",
@@ -175,6 +183,7 @@
         "contestType": "Tough",
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -204,6 +213,7 @@
         "contestType": "Tough",
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -226,6 +236,7 @@
         "contestType": "Clever",
         "flags": {
             "distance": 1,
+            "metronome": 1,
             "snatch": 1
         },
         "isNonstandard": null,
@@ -246,7 +257,7 @@
         "category": "Status",
         "contestType": "Cute",
         "flags": {
-            "failcopycat": 1,
+            "metronome": 1,
             "noassist": 1,
             "nosleeptalk": 1
         },
@@ -268,6 +279,7 @@
         "contestType": "Cute",
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -297,6 +309,7 @@
         "contestType": "Cute",
         "flags": {
             "bypasssub": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1,
             "reflectable": 1
@@ -320,6 +333,7 @@
         "category": "Special",
         "contestType": "Beautiful",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -343,6 +357,7 @@
         "contestType": "Cute",
         "flags": {
             "bullet": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -368,6 +383,7 @@
         "category": "Status",
         "contestType": "Cool",
         "flags": {
+            "metronome": 1,
             "snatch": 1
         },
         "isNonstandard": null,
@@ -387,7 +403,9 @@
         "basePower": 0,
         "category": "Status",
         "contestType": "Cute",
-        "flags": {},
+        "flags": {
+            "metronome": 1
+        },
         "name": "Baton Pass",
         "num": 226,
         "onHit": "onHit",
@@ -419,6 +437,7 @@
         "contestType": "Clever",
         "flags": {
             "allyanim": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -437,6 +456,7 @@
         "category": "Status",
         "contestType": "Cute",
         "flags": {
+            "metronome": 1,
             "snatch": 1
         },
         "name": "Belly Drum",
@@ -470,6 +490,7 @@
         "flags": {
             "contact": 1,
             "failinstruct": 1,
+            "metronome": 1,
             "nosleeptalk": 1,
             "protect": 1
         },
@@ -491,6 +512,7 @@
         "contestType": "Tough",
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -511,6 +533,7 @@
         "flags": {
             "bite": 1,
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -531,6 +554,7 @@
         "category": "Special",
         "contestType": "Beautiful",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1,
             "recharge": 1
@@ -554,6 +578,7 @@
         "critRatio": 2,
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -574,6 +599,7 @@
         "category": "Special",
         "contestType": "Beautiful",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1,
             "wind": 1
@@ -596,6 +622,7 @@
         "category": "Status",
         "contestType": "Cute",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1,
             "reflectable": 1
@@ -621,6 +648,7 @@
         "contestType": "Tough",
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "nonsky": 1,
             "protect": 1
@@ -642,6 +670,7 @@
         "category": "Physical",
         "contestType": "Tough",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -663,6 +692,7 @@
         "category": "Physical",
         "contestType": "Tough",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -685,6 +715,7 @@
         "category": "Physical",
         "contestType": "Tough",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -721,6 +752,7 @@
             "contact": 1,
             "distance": 1,
             "gravity": 1,
+            "metronome": 1,
             "mirror": 1,
             "nosleeptalk": 1,
             "protect": 1
@@ -744,6 +776,7 @@
         "contestType": "Cool",
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -762,6 +795,7 @@
         "category": "Special",
         "contestType": "Cute",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -785,6 +819,7 @@
         "category": "Special",
         "contestType": "Beautiful",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -811,6 +846,7 @@
         "category": "Status",
         "contestType": "Cool",
         "flags": {
+            "metronome": 1,
             "snatch": 1
         },
         "name": "Bulk Up",
@@ -833,6 +869,7 @@
         "contestType": "Cool",
         "flags": {
             "bullet": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -864,6 +901,7 @@
         "category": "Status",
         "contestType": "Clever",
         "flags": {
+            "metronome": 1,
             "snatch": 1
         },
         "name": "Calm Mind",
@@ -883,6 +921,7 @@
         "category": "Status",
         "contestType": "Clever",
         "flags": {
+            "metronome": 1,
             "snatch": 1
         },
         "isNonstandard": null,
@@ -916,6 +955,7 @@
         },
         "contestType": "Clever",
         "flags": {
+            "metronome": 1,
             "snatch": 1
         },
         "name": "Charge",
@@ -942,6 +982,7 @@
         "contestType": "Cute",
         "flags": {
             "allyanim": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1,
             "reflectable": 1
@@ -966,6 +1007,7 @@
         "contestType": "Tough",
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -986,6 +1028,7 @@
         "contestType": "Tough",
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1,
             "punch": 1
@@ -1012,6 +1055,7 @@
         "category": "Status",
         "contestType": "Clever",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1,
             "reflectable": 1
@@ -1036,6 +1080,7 @@
         "category": "Special",
         "contestType": "Clever",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -1057,6 +1102,7 @@
         "contestType": "Tough",
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -1079,7 +1125,9 @@
         "basePower": 0,
         "category": "Status",
         "contestType": "Beautiful",
-        "flags": {},
+        "flags": {
+            "metronome": 1
+        },
         "name": "Conversion",
         "num": 160,
         "onHit": "onHit",
@@ -1104,7 +1152,8 @@
         "category": "Status",
         "contestType": "Beautiful",
         "flags": {
-            "bypasssub": 1
+            "bypasssub": 1,
+            "metronome": 1
         },
         "name": "Conversion 2",
         "num": 176,
@@ -1128,6 +1177,7 @@
         "category": "Status",
         "contestType": "Beautiful",
         "flags": {
+            "metronome": 1,
             "snatch": 1
         },
         "name": "Cosmic Power",
@@ -1152,6 +1202,7 @@
         "category": "Status",
         "contestType": "Beautiful",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "powder": 1,
             "protect": 1,
@@ -1231,6 +1282,7 @@
         "critRatio": 2,
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -1250,6 +1302,7 @@
         "critRatio": 2,
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -1269,6 +1322,7 @@
         "flags": {
             "bite": 1,
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -1292,6 +1346,7 @@
         "contestType": "Cool",
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -1319,7 +1374,9 @@
             "onStart": "onStart"
         },
         "contestType": "Tough",
-        "flags": {},
+        "flags": {
+            "metronome": 1
+        },
         "name": "Curse",
         "nonGhostTarget": "self",
         "num": 174,
@@ -1343,10 +1400,12 @@
         "contestType": "Cool",
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1,
             "slicing": 1
         },
+        "isNonstandard": null,
         "name": "Cut",
         "num": 15,
         "pp": 30,
@@ -1368,6 +1427,7 @@
         },
         "contestType": "Cute",
         "flags": {
+            "metronome": 1,
             "snatch": 1
         },
         "name": "Defense Curl",
@@ -1460,6 +1520,7 @@
         "flags": {
             "charge": 1,
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "nonsky": 1,
             "nosleeptalk": 1,
@@ -1489,6 +1550,7 @@
         "contestType": "Clever",
         "flags": {
             "bypasssub": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -1519,6 +1581,7 @@
         "flags": {
             "charge": 1,
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "nonsky": 1,
             "nosleeptalk": 1,
@@ -1540,6 +1603,7 @@
         "contestType": "Cute",
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1,
             "punch": 1
@@ -1562,7 +1626,8 @@
         "category": "Special",
         "contestType": "Beautiful",
         "flags": {
-            "futuremove": 1
+            "futuremove": 1,
+            "metronome": 1
         },
         "name": "Doom Desire",
         "num": 353,
@@ -1580,6 +1645,7 @@
         "contestType": "Tough",
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -1602,6 +1668,7 @@
         "contestType": "Cool",
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -1624,6 +1691,7 @@
         "contestType": "Cute",
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -1649,6 +1717,7 @@
         "category": "Status",
         "contestType": "Cool",
         "flags": {
+            "metronome": 1,
             "snatch": 1
         },
         "name": "Double Team",
@@ -1668,6 +1737,7 @@
         "category": "Special",
         "contestType": "Cool",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -1689,6 +1759,7 @@
         "contestType": "Cool",
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -1711,6 +1782,7 @@
         "contestType": "Cool",
         "flags": {
             "dance": 1,
+            "metronome": 1,
             "snatch": 1
         },
         "name": "Dragon Dance",
@@ -1731,6 +1803,7 @@
         "contestType": "Cool",
         "damage": 40,
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -1753,6 +1826,7 @@
             2
         ],
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -1773,6 +1847,7 @@
         "flags": {
             "contact": 1,
             "distance": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -1791,6 +1866,7 @@
         "contestType": "Cool",
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1,
             "punch": 1
@@ -1812,6 +1888,7 @@
         "category": "Physical",
         "contestType": "Tough",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "nonsky": 1,
             "protect": 1
@@ -1831,6 +1908,7 @@
         "contestType": "Cute",
         "flags": {
             "bullet": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -1849,6 +1927,7 @@
         "category": "Special",
         "contestType": "Cute",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -1881,6 +1960,7 @@
         "flags": {
             "bypasssub": 1,
             "failencore": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -1906,6 +1986,7 @@
         "damageCallback": "damageCallback",
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "noparentalbond": 1,
             "protect": 1
@@ -1963,6 +2044,7 @@
         "category": "Special",
         "contestType": "Beautiful",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -1980,6 +2062,7 @@
         "category": "Physical",
         "contestType": "Beautiful",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "noparentalbond": 1,
             "protect": 1
@@ -2000,6 +2083,7 @@
         "category": "Special",
         "contestType": "Cool",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -2021,6 +2105,7 @@
         "contestType": "Cool",
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -2039,6 +2124,7 @@
         "contestType": "Cute",
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -2057,6 +2143,7 @@
         "category": "Physical",
         "contestType": "Cute",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -2082,6 +2169,7 @@
         "contestType": "Cute",
         "flags": {
             "allyanim": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1,
             "reflectable": 1
@@ -2106,6 +2194,7 @@
         "contestType": "Cool",
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -2130,6 +2219,7 @@
         "flags": {
             "allyanim": 1,
             "dance": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1,
             "reflectable": 1
@@ -2153,6 +2243,7 @@
         "category": "Physical",
         "contestType": "Clever",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -2171,6 +2262,7 @@
         "category": "Special",
         "contestType": "Beautiful",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -2192,6 +2284,7 @@
         "contestType": "Tough",
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1,
             "punch": 1
@@ -2213,6 +2306,7 @@
         "category": "Special",
         "contestType": "Beautiful",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -2231,6 +2325,7 @@
         "category": "Physical",
         "contestType": "Tough",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "nonsky": 1,
             "protect": 1
@@ -2258,6 +2353,7 @@
         "contestType": "Cute",
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -2281,6 +2377,7 @@
         "category": "Special",
         "contestType": "Beautiful",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -2303,6 +2400,7 @@
         "flags": {
             "contact": 1,
             "defrost": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -2326,6 +2424,7 @@
         "category": "Status",
         "contestType": "Beautiful",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1,
             "reflectable": 1
@@ -2354,6 +2453,7 @@
         "contestType": "Clever",
         "flags": {
             "allyanim": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1,
             "reflectable": 1
@@ -2387,6 +2487,7 @@
             "contact": 1,
             "distance": 1,
             "gravity": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -2409,6 +2510,7 @@
         },
         "contestType": "Cool",
         "flags": {
+            "metronome": 1,
             "snatch": 1
         },
         "name": "Focus Energy",
@@ -2500,6 +2602,7 @@
         "contestType": "Clever",
         "flags": {
             "bypasssub": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -2523,6 +2626,7 @@
         "category": "Special",
         "contestType": "Cool",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "nonsky": 1,
             "protect": 1,
@@ -2547,6 +2651,7 @@
         "contestType": "Cute",
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -2572,6 +2677,7 @@
         "contestType": "Cool",
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -2600,6 +2706,7 @@
         "contestType": "Cool",
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1,
             "slicing": 1
@@ -2620,6 +2727,7 @@
         "contestType": "Tough",
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -2644,7 +2752,8 @@
         "category": "Special",
         "contestType": "Clever",
         "flags": {
-            "futuremove": 1
+            "futuremove": 1,
+            "metronome": 1
         },
         "ignoreImmunity": true,
         "name": "Future Sight",
@@ -2666,6 +2775,7 @@
             2
         ],
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -2683,6 +2793,7 @@
         "category": "Status",
         "contestType": "Tough",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1,
             "reflectable": 1
@@ -2708,6 +2819,7 @@
         "category": "Status",
         "contestType": "Clever",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1,
             "reflectable": 1,
@@ -2737,6 +2849,7 @@
         "category": "Status",
         "contestType": "Cute",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1,
             "reflectable": 1,
@@ -2764,6 +2877,7 @@
         "category": "Status",
         "contestType": "Beautiful",
         "flags": {
+            "metronome": 1,
             "snatch": 1
         },
         "name": "Growth",
@@ -2792,7 +2906,8 @@
         },
         "contestType": "Tough",
         "flags": {
-            "bypasssub": 1
+            "bypasssub": 1,
+            "metronome": 1
         },
         "isNonstandard": null,
         "name": "Grudge",
@@ -2814,6 +2929,7 @@
         "contestType": "Cool",
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -2839,6 +2955,7 @@
         "contestType": "Clever",
         "flags": {
             "distance": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1,
             "wind": 1
@@ -2856,7 +2973,9 @@
         "basePower": 0,
         "category": "Status",
         "contestType": "Beautiful",
-        "flags": {},
+        "flags": {
+            "metronome": 1
+        },
         "isNonstandard": null,
         "name": "Hail",
         "num": 258,
@@ -2881,6 +3000,7 @@
         "category": "Status",
         "contestType": "Tough",
         "flags": {
+            "metronome": 1,
             "snatch": 1
         },
         "name": "Harden",
@@ -2902,7 +3022,8 @@
         "category": "Status",
         "contestType": "Beautiful",
         "flags": {
-            "bypasssub": 1
+            "bypasssub": 1,
+            "metronome": 1
         },
         "name": "Haze",
         "num": 114,
@@ -2923,6 +3044,7 @@
         "contestType": "Tough",
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -2943,6 +3065,7 @@
         "category": "Status",
         "contestType": "Beautiful",
         "flags": {
+            "metronome": 1,
             "snatch": 1,
             "sound": 1
         },
@@ -2963,6 +3086,7 @@
         "category": "Special",
         "contestType": "Beautiful",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1,
             "wind": 1
@@ -3015,6 +3139,7 @@
         "category": "Physical",
         "contestType": "Clever",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -3341,6 +3466,7 @@
         "flags": {
             "contact": 1,
             "gravity": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -3361,6 +3487,7 @@
         "contestType": "Cool",
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -3379,6 +3506,7 @@
         "contestType": "Cool",
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -3406,6 +3534,7 @@
         "category": "Status",
         "contestType": "Cool",
         "flags": {
+            "metronome": 1,
             "snatch": 1
         },
         "name": "Howl",
@@ -3427,6 +3556,7 @@
         "category": "Special",
         "contestType": "Beautiful",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1,
             "recharge": 1
@@ -3448,6 +3578,7 @@
         "category": "Special",
         "contestType": "Beautiful",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -3465,6 +3596,7 @@
         "category": "Special",
         "contestType": "Cool",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1,
             "recharge": 1
@@ -3488,6 +3620,7 @@
         "flags": {
             "bite": 1,
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -3509,6 +3642,7 @@
         "category": "Special",
         "contestType": "Cool",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1,
             "sound": 1
@@ -3527,6 +3661,7 @@
         "category": "Status",
         "contestType": "Clever",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1,
             "reflectable": 1
@@ -3561,6 +3696,7 @@
             "bullet": 1,
             "contact": 1,
             "failinstruct": 1,
+            "metronome": 1,
             "mirror": 1,
             "noparentalbond": 1,
             "protect": 1
@@ -3582,6 +3718,7 @@
         "category": "Special",
         "contestType": "Beautiful",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -3603,6 +3740,7 @@
         "contestType": "Beautiful",
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1,
             "punch": 1
@@ -3624,6 +3762,7 @@
         "category": "Physical",
         "contestType": "Beautiful",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -3651,6 +3790,7 @@
         "category": "Special",
         "contestType": "Beautiful",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1,
             "wind": 1
@@ -3681,7 +3821,8 @@
         },
         "contestType": "Clever",
         "flags": {
-            "bypasssub": 1
+            "bypasssub": 1,
+            "metronome": 1
         },
         "name": "Imprison",
         "num": 286,
@@ -3712,6 +3853,7 @@
         },
         "contestType": "Clever",
         "flags": {
+            "metronome": 1,
             "nonsky": 1,
             "snatch": 1
         },
@@ -3738,6 +3880,7 @@
         "category": "Status",
         "contestType": "Tough",
         "flags": {
+            "metronome": 1,
             "snatch": 1
         },
         "name": "Iron Defense",
@@ -3758,6 +3901,7 @@
         "contestType": "Cool",
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -3782,6 +3926,7 @@
         "flags": {
             "contact": 1,
             "gravity": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -3804,6 +3949,7 @@
         "critRatio": 2,
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -3825,6 +3971,7 @@
         "category": "Status",
         "contestType": "Clever",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1,
             "reflectable": 1
@@ -3850,6 +3997,7 @@
         "contestType": "Clever",
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -3871,6 +4019,7 @@
         "critRatio": 2,
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1,
             "slicing": 1
@@ -3894,6 +4043,7 @@
         ],
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -3917,6 +4067,7 @@
         },
         "contestType": "Clever",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1,
             "reflectable": 1
@@ -3943,6 +4094,7 @@
         "category": "Status",
         "contestType": "Cool",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1,
             "reflectable": 1
@@ -3967,6 +4119,7 @@
         "contestType": "Cute",
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -3995,6 +4148,7 @@
         },
         "contestType": "Beautiful",
         "flags": {
+            "metronome": 1,
             "snatch": 1
         },
         "name": "Light Screen",
@@ -4023,6 +4177,7 @@
         },
         "contestType": "Clever",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -4047,6 +4202,7 @@
         "category": "Status",
         "contestType": "Beautiful",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1,
             "reflectable": 1
@@ -4074,6 +4230,7 @@
         "contestType": "Tough",
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -4095,6 +4252,7 @@
         "category": "Special",
         "contestType": "Clever",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -4118,6 +4276,7 @@
         "contestType": "Cool",
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1,
             "punch": 1
@@ -4136,6 +4295,7 @@
         "category": "Special",
         "contestType": "Beautiful",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -4157,7 +4317,9 @@
             "onTryHitPriority": 2
         },
         "contestType": "Beautiful",
-        "flags": {},
+        "flags": {
+            "metronome": 1
+        },
         "isNonstandard": null,
         "name": "Magic Coat",
         "num": 277,
@@ -4179,6 +4341,7 @@
         "category": "Physical",
         "contestType": "Tough",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "nonsky": 1,
             "protect": 1
@@ -4206,6 +4369,7 @@
         "category": "Status",
         "contestType": "Beautiful",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1,
             "reflectable": 1
@@ -4233,6 +4397,7 @@
         "category": "Status",
         "contestType": "Beautiful",
         "flags": {
+            "metronome": 1,
             "snatch": 1
         },
         "isNonstandard": null,
@@ -4259,6 +4424,7 @@
             2
         ],
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -4280,6 +4446,7 @@
         "contestType": "Cool",
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -4298,6 +4465,7 @@
         "contestType": "Cool",
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -4316,6 +4484,7 @@
         "contestType": "Tough",
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1,
             "punch": 1
@@ -4338,6 +4507,7 @@
         "category": "Status",
         "contestType": "Tough",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -4360,6 +4530,7 @@
         "contestType": "Cool",
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -4387,6 +4558,7 @@
         "category": "Status",
         "contestType": "Clever",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1,
             "reflectable": 1,
@@ -4412,6 +4584,7 @@
         "contestType": "Cool",
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1,
             "punch": 1
@@ -4443,33 +4616,6 @@
             "nosleeptalk": 1
         },
         "name": "Metronome",
-        "noMetronome": [
-            "Assist",
-            "Chatter",
-            "Copycat",
-            "Counter",
-            "Covet",
-            "Destiny Bond",
-            "Detect",
-            "Endure",
-            "Feint",
-            "Focus Punch",
-            "Follow Me",
-            "Helping Hand",
-            "Me First",
-            "Metronome",
-            "Mimic",
-            "Mirror Coat",
-            "Mirror Move",
-            "Protect",
-            "Sketch",
-            "Sleep Talk",
-            "Snatch",
-            "Struggle",
-            "Switcheroo",
-            "Thief",
-            "Trick"
-        ],
         "num": 118,
         "onHit": "onHit",
         "pp": 10,
@@ -4485,6 +4631,7 @@
         "contestType": "Cute",
         "flags": {
             "heal": 1,
+            "metronome": 1,
             "snatch": 1
         },
         "heal": [
@@ -4535,6 +4682,7 @@
         "category": "Status",
         "contestType": "Clever",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -4567,6 +4715,7 @@
         },
         "contestType": "Cute",
         "flags": {
+            "metronome": 1,
             "snatch": 1
         },
         "name": "Minimize",
@@ -4618,9 +4767,8 @@
         "category": "Status",
         "contestType": "Clever",
         "flags": {
-            "failcopycat": 1,
             "failencore": 1,
-            "failinstruct": 1,
+            "metronome": 1,
             "noassist": 1,
             "nosleeptalk": 1
         },
@@ -4653,6 +4801,7 @@
         },
         "contestType": "Beautiful",
         "flags": {
+            "metronome": 1,
             "snatch": 1
         },
         "name": "Mist",
@@ -4674,6 +4823,7 @@
         "contestType": "Clever",
         "flags": {
             "bullet": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -4697,6 +4847,7 @@
         "contestType": "Beautiful",
         "flags": {
             "heal": 1,
+            "metronome": 1,
             "snatch": 1
         },
         "name": "Moonlight",
@@ -4718,6 +4869,7 @@
         "contestType": "Beautiful",
         "flags": {
             "heal": 1,
+            "metronome": 1,
             "snatch": 1
         },
         "name": "Morning Sun",
@@ -4738,6 +4890,7 @@
         "category": "Special",
         "contestType": "Tough",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "nonsky": 1,
             "protect": 1
@@ -4761,6 +4914,7 @@
         "category": "Special",
         "contestType": "Tough",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -4783,6 +4937,7 @@
         "category": "Special",
         "contestType": "Cute",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -4806,26 +4961,38 @@
         "condition": {
             "noCopy": true,
             "onAnyBasePower": "onAnyBasePower",
-            "onBasePowerPriority": 3,
+            "onAnyBasePowerPriority": 3,
             "onStart": "onStart"
         },
-        "flags": {},
+        "contestType": "Cute",
+        "flags": {
+            "metronome": 1,
+            "nonsky": 1
+        },
+        "isNonstandard": null,
         "name": "Mud Sport",
         "num": 300,
-        "onTryHitField": "onTryHitField",
         "pp": 15,
         "priority": 0,
+        "pseudoWeather": null,
         "secondary": null,
         "target": "all",
         "type": "Ground",
-        "volatileStatus": "mudsport"
+        "volatileStatus": "mudsport",
+        "zMove": {
+            "boost": {
+                "spd": 1
+            }
+        }
     },
     "naturepower": {
         "accuracy": 95,
         "basePower": 0,
         "category": "Status",
         "contestType": "Beautiful",
-        "flags": {},
+        "flags": {
+            "metronome": 1
+        },
         "isNonstandard": null,
         "name": "Nature Power",
         "num": 267,
@@ -4845,6 +5012,7 @@
         "contestType": "Clever",
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -4873,6 +5041,7 @@
         },
         "contestType": "Clever",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -4898,6 +5067,7 @@
         "contestType": "Clever",
         "damage": "level",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -4916,6 +5086,7 @@
         "contestType": "Tough",
         "flags": {
             "bullet": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -4940,6 +5111,7 @@
         "contestType": "Clever",
         "flags": {
             "bypasssub": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -4967,6 +5139,7 @@
         "flags": {
             "contact": 1,
             "failinstruct": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -4989,6 +5162,7 @@
         "contestType": "Beautiful",
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -5012,6 +5186,7 @@
         "contestType": "Clever",
         "flags": {
             "allyanim": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -5058,6 +5233,7 @@
         "category": "Physical",
         "contestType": "Clever",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -5078,6 +5254,7 @@
         "flags": {
             "contact": 1,
             "distance": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -5102,6 +5279,7 @@
         "contestType": "Beautiful",
         "flags": {
             "distance": 1,
+            "metronome": 1,
             "sound": 1
         },
         "name": "Perish Song",
@@ -5125,6 +5303,7 @@
             "contact": 1,
             "dance": 1,
             "failinstruct": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -5146,6 +5325,7 @@
         "category": "Physical",
         "contestType": "Cool",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -5175,6 +5355,7 @@
         "flags": {
             "bite": 1,
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -5195,6 +5376,7 @@
         "category": "Status",
         "contestType": "Clever",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1,
             "reflectable": 1
@@ -5219,6 +5401,7 @@
         "category": "Status",
         "contestType": "Clever",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "powder": 1,
             "protect": 1,
@@ -5245,6 +5428,7 @@
         "category": "Physical",
         "contestType": "Clever",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -5267,6 +5451,7 @@
         "critRatio": 2,
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -5288,6 +5473,7 @@
         "contestType": "Tough",
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -5305,6 +5491,7 @@
         "category": "Special",
         "contestType": "Beautiful",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -5325,6 +5512,7 @@
         "category": "Physical",
         "contestType": "Cute",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -5373,6 +5561,7 @@
         "category": "Special",
         "contestType": "Beautiful",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -5393,6 +5582,7 @@
         "category": "Special",
         "contestType": "Clever",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -5415,6 +5605,7 @@
         "category": "Special",
         "contestType": "Clever",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -5439,6 +5630,7 @@
         "contestType": "Clever",
         "flags": {
             "bypasssub": 1,
+            "metronome": 1,
             "snatch": 1
         },
         "name": "Psych Up",
@@ -5460,6 +5652,7 @@
         "contestType": "Clever",
         "damageCallback": "damageCallback",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -5485,6 +5678,7 @@
         "contestType": "Clever",
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -5506,6 +5700,7 @@
         "contestType": "Cool",
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -5530,6 +5725,7 @@
         "contestType": "Tough",
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -5550,7 +5746,9 @@
         "basePower": 0,
         "category": "Status",
         "contestType": "Beautiful",
-        "flags": {},
+        "flags": {
+            "metronome": 1
+        },
         "name": "Rain Dance",
         "num": 240,
         "pp": 5,
@@ -5572,6 +5770,7 @@
         "contestType": "Cool",
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -5595,6 +5794,7 @@
         "contestType": "Cool",
         "critRatio": 2,
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1,
             "slicing": 1
@@ -5616,6 +5816,7 @@
         "flags": {
             "charge": 1,
             "failinstruct": 1,
+            "metronome": 1,
             "mirror": 1,
             "nosleeptalk": 1,
             "protect": 1
@@ -5637,6 +5838,7 @@
         "contestType": "Clever",
         "flags": {
             "heal": 1,
+            "metronome": 1,
             "snatch": 1
         },
         "heal": [
@@ -5659,7 +5861,9 @@
         "basePower": 0,
         "category": "Status",
         "contestType": "Clever",
-        "flags": {},
+        "flags": {
+            "metronome": 1
+        },
         "name": "Recycle",
         "num": 278,
         "onHit": "onHit",
@@ -5688,6 +5892,7 @@
         },
         "contestType": "Clever",
         "flags": {
+            "metronome": 1,
             "snatch": 1
         },
         "name": "Reflect",
@@ -5710,6 +5915,7 @@
         "category": "Status",
         "contestType": "Cute",
         "flags": {
+            "metronome": 1,
             "snatch": 1
         },
         "isNonstandard": null,
@@ -5732,6 +5938,7 @@
         "contestType": "Cute",
         "flags": {
             "heal": 1,
+            "metronome": 1,
             "snatch": 1
         },
         "name": "Rest",
@@ -5755,6 +5962,7 @@
         "contestType": "Cute",
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -5781,6 +5989,7 @@
         "contestType": "Tough",
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -5801,6 +6010,7 @@
         "contestType": "Cool",
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -5822,6 +6032,7 @@
         "contestType": "Cool",
         "flags": {
             "bypasssub": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1,
             "sound": 1
@@ -5846,6 +6057,7 @@
         "category": "Physical",
         "contestType": "Tough",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -5873,6 +6085,7 @@
         "category": "Physical",
         "contestType": "Tough",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -5894,6 +6107,7 @@
         "contestType": "Tough",
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -5916,6 +6130,7 @@
         "category": "Physical",
         "contestType": "Tough",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -5933,6 +6148,7 @@
         "category": "Physical",
         "contestType": "Clever",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -5956,7 +6172,8 @@
         "contestType": "Cute",
         "flags": {
             "allyanim": 1,
-            "bypasssub": 1
+            "bypasssub": 1,
+            "metronome": 1
         },
         "name": "Role Play",
         "num": 272,
@@ -5980,6 +6197,7 @@
         "contestType": "Cool",
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -6010,6 +6228,7 @@
         "flags": {
             "contact": 1,
             "failinstruct": 1,
+            "metronome": 1,
             "mirror": 1,
             "noparentalbond": 1,
             "protect": 1
@@ -6031,6 +6250,7 @@
         "contestType": "Beautiful",
         "flags": {
             "defrost": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -6060,6 +6280,7 @@
         },
         "contestType": "Beautiful",
         "flags": {
+            "metronome": 1,
             "snatch": 1
         },
         "name": "Safeguard",
@@ -6085,6 +6306,7 @@
         "category": "Status",
         "contestType": "Cute",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1,
             "reflectable": 1
@@ -6108,6 +6330,7 @@
         "category": "Status",
         "contestType": "Tough",
         "flags": {
+            "metronome": 1,
             "wind": 1
         },
         "name": "Sandstorm",
@@ -6130,6 +6353,7 @@
         "category": "Physical",
         "contestType": "Clever",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -6152,6 +6376,7 @@
         "contestType": "Tough",
         "flags": {
             "allyanim": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1,
             "reflectable": 1
@@ -6176,6 +6401,7 @@
         "contestType": "Tough",
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -6196,6 +6422,7 @@
         "category": "Status",
         "contestType": "Clever",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1,
             "reflectable": 1,
@@ -6220,6 +6447,7 @@
         "category": "Physical",
         "contestType": "Clever",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -6244,6 +6472,7 @@
         "damage": "level",
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "nonsky": 1,
             "protect": 1
@@ -6265,6 +6494,7 @@
         "category": "Physical",
         "contestType": "Beautiful",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "noparentalbond": 1,
             "protect": 1
@@ -6285,6 +6515,7 @@
         "contestType": "Clever",
         "flags": {
             "bullet": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -6308,6 +6539,7 @@
         "contestType": "Clever",
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1,
             "punch": 1
@@ -6353,6 +6585,7 @@
         "category": "Status",
         "contestType": "Cute",
         "flags": {
+            "metronome": 1,
             "snatch": 1
         },
         "isNonstandard": null,
@@ -6375,6 +6608,7 @@
         "category": "Special",
         "contestType": "Beautiful",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -6399,6 +6633,7 @@
         "category": "Special",
         "contestType": "Cool",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -6416,6 +6651,7 @@
         "category": "Special",
         "contestType": "Beautiful",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -6437,6 +6673,7 @@
         "category": "Special",
         "contestType": "Beautiful",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -6466,6 +6703,7 @@
         "category": "Status",
         "contestType": "Cute",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1,
             "reflectable": 1,
@@ -6525,6 +6763,7 @@
         "flags": {
             "allyanim": 1,
             "bypasssub": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -6552,6 +6791,7 @@
             "charge": 1,
             "contact": 1,
             "failinstruct": 1,
+            "metronome": 1,
             "mirror": 1,
             "nosleeptalk": 1,
             "protect": 1
@@ -6576,6 +6816,7 @@
             "charge": 1,
             "distance": 1,
             "failinstruct": 1,
+            "metronome": 1,
             "mirror": 1,
             "nosleeptalk": 1,
             "protect": 1
@@ -6599,6 +6840,7 @@
         "contestType": "Cool",
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1,
             "punch": 1
@@ -6619,6 +6861,7 @@
         "contestType": "Cute",
         "flags": {
             "heal": 1,
+            "metronome": 1,
             "snatch": 1
         },
         "heal": [
@@ -6643,6 +6886,7 @@
         "contestType": "Tough",
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "nonsky": 1,
             "protect": 1
@@ -6663,6 +6907,7 @@
         "critRatio": 2,
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1,
             "slicing": 1
@@ -6681,6 +6926,7 @@
         "category": "Status",
         "contestType": "Clever",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "powder": 1,
             "protect": 1,
@@ -6732,6 +6978,7 @@
         "category": "Special",
         "contestType": "Tough",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -6753,6 +7000,7 @@
         "contestType": "Tough",
         "flags": {
             "bullet": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -6775,6 +7023,7 @@
         "contestType": "Tough",
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -6794,6 +7043,7 @@
         "category": "Special",
         "contestType": "Tough",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -6817,6 +7067,7 @@
         "category": "Status",
         "contestType": "Clever",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1,
             "reflectable": 1
@@ -6871,6 +7122,7 @@
         "category": "Special",
         "contestType": "Cute",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1,
             "sound": 1
@@ -6895,6 +7147,7 @@
         "contestType": "Cute",
         "flags": {
             "heal": 1,
+            "metronome": 1,
             "snatch": 1
         },
         "heal": [
@@ -6920,6 +7173,7 @@
         "flags": {
             "charge": 1,
             "failinstruct": 1,
+            "metronome": 1,
             "mirror": 1,
             "nosleeptalk": 1,
             "protect": 1
@@ -6941,6 +7195,7 @@
         "contestType": "Cool",
         "damage": 20,
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -6960,6 +7215,7 @@
         "contestType": "Cool",
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -6980,6 +7236,7 @@
         "category": "Status",
         "contestType": "Clever",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1,
             "reflectable": 1
@@ -7005,6 +7262,7 @@
         "category": "Physical",
         "contestType": "Cool",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -7035,6 +7293,7 @@
         },
         "contestType": "Clever",
         "flags": {
+            "metronome": 1,
             "mustpressure": 1
         },
         "name": "Spikes",
@@ -7058,6 +7317,7 @@
         "contestType": "Tough",
         "flags": {
             "bypasssub": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -7080,6 +7340,7 @@
         "category": "Special",
         "contestType": "Tough",
         "flags": {
+            "metronome": 1,
             "protect": 1
         },
         "name": "Spit Up",
@@ -7098,7 +7359,8 @@
         "category": "Status",
         "contestType": "Cute",
         "flags": {
-            "gravity": 1
+            "gravity": 1,
+            "metronome": 1
         },
         "name": "Splash",
         "num": 150,
@@ -7121,6 +7383,7 @@
         "category": "Status",
         "contestType": "Beautiful",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "powder": 1,
             "protect": 1,
@@ -7146,6 +7409,7 @@
         "contestType": "Cool",
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -7176,6 +7440,7 @@
         },
         "contestType": "Tough",
         "flags": {
+            "metronome": 1,
             "snatch": 1
         },
         "name": "Stockpile",
@@ -7198,6 +7463,7 @@
         "contestType": "Tough",
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "nonsky": 1,
             "protect": 1
@@ -7220,6 +7486,7 @@
         "contestType": "Tough",
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -7240,6 +7507,7 @@
         "category": "Status",
         "contestType": "Clever",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1,
             "reflectable": 1
@@ -7291,6 +7559,7 @@
         "category": "Status",
         "contestType": "Clever",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "powder": 1,
             "protect": 1,
@@ -7318,6 +7587,7 @@
         "contestType": "Cool",
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -7346,6 +7616,7 @@
         },
         "contestType": "Cute",
         "flags": {
+            "metronome": 1,
             "nonsky": 1,
             "snatch": 1
         },
@@ -7368,7 +7639,9 @@
         "basePower": 0,
         "category": "Status",
         "contestType": "Beautiful",
-        "flags": {},
+        "flags": {
+            "metronome": 1
+        },
         "name": "Sunny Day",
         "num": 241,
         "pp": 5,
@@ -7391,6 +7664,7 @@
         "damageCallback": "damageCallback",
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -7409,6 +7683,7 @@
         "contestType": "Tough",
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -7432,6 +7707,7 @@
         "category": "Status",
         "contestType": "Clever",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1,
             "reflectable": 1,
@@ -7457,6 +7733,7 @@
         "category": "Special",
         "contestType": "Beautiful",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "nonsky": 1,
             "protect": 1
@@ -7479,6 +7756,7 @@
         "contestType": "Cute",
         "flags": {
             "allyanim": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1,
             "reflectable": 1
@@ -7502,6 +7780,7 @@
         "contestType": "Tough",
         "flags": {
             "heal": 1,
+            "metronome": 1,
             "snatch": 1
         },
         "name": "Swallow",
@@ -7523,6 +7802,7 @@
         "category": "Status",
         "contestType": "Cute",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1,
             "reflectable": 1
@@ -7550,6 +7830,7 @@
         "category": "Status",
         "contestType": "Cute",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1,
             "reflectable": 1
@@ -7573,6 +7854,7 @@
         "category": "Special",
         "contestType": "Cool",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -7594,6 +7876,7 @@
         "contestType": "Beautiful",
         "flags": {
             "dance": 1,
+            "metronome": 1,
             "snatch": 1
         },
         "name": "Swords Dance",
@@ -7614,6 +7897,7 @@
         "contestType": "Clever",
         "flags": {
             "heal": 1,
+            "metronome": 1,
             "snatch": 1
         },
         "name": "Synthesis",
@@ -7635,6 +7919,7 @@
         "contestType": "Tough",
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -7655,6 +7940,7 @@
         "category": "Status",
         "contestType": "Beautiful",
         "flags": {
+            "metronome": 1,
             "snatch": 1
         },
         "isNonstandard": null,
@@ -7678,6 +7964,7 @@
         "category": "Status",
         "contestType": "Cute",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1,
             "reflectable": 1
@@ -7702,6 +7989,7 @@
         "contestType": "Tough",
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -7733,6 +8021,7 @@
         "contestType": "Clever",
         "flags": {
             "bypasssub": 1,
+            "metronome": 1,
             "protect": 1
         },
         "name": "Taunt",
@@ -7755,6 +8044,7 @@
         "category": "Status",
         "contestType": "Cute",
         "flags": {
+            "metronome": 1,
             "protect": 1
         },
         "name": "Teeter Dance",
@@ -7776,7 +8066,9 @@
         "basePower": 0,
         "category": "Status",
         "contestType": "Cool",
-        "flags": {},
+        "flags": {
+            "metronome": 1
+        },
         "name": "Teleport",
         "num": 100,
         "onTry": false,
@@ -7820,6 +8112,7 @@
         "flags": {
             "contact": 1,
             "failinstruct": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -7841,6 +8134,7 @@
         "category": "Special",
         "contestType": "Cool",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -7862,6 +8156,7 @@
         "category": "Special",
         "contestType": "Cool",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -7883,6 +8178,7 @@
         "contestType": "Cool",
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1,
             "punch": 1
@@ -7904,6 +8200,7 @@
         "category": "Special",
         "contestType": "Cool",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -7924,6 +8221,7 @@
         "category": "Status",
         "contestType": "Cool",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1,
             "reflectable": 1
@@ -7954,6 +8252,7 @@
         "contestType": "Cute",
         "flags": {
             "bypasssub": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1,
             "reflectable": 1
@@ -7984,6 +8283,7 @@
         "contestType": "Tough",
         "flags": {
             "bypasssub": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -8014,6 +8314,7 @@
         },
         "contestType": "Clever",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1,
             "reflectable": 1
@@ -8040,7 +8341,8 @@
         "contestType": "Clever",
         "flags": {
             "bypasssub": 1,
-            "failencore": 1
+            "failencore": 1,
+            "metronome": 1
         },
         "name": "Transform",
         "num": 144,
@@ -8060,6 +8362,7 @@
         "category": "Special",
         "contestType": "Beautiful",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -8110,6 +8413,7 @@
         "contestType": "Cool",
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -8135,6 +8439,7 @@
         "category": "Physical",
         "contestType": "Cool",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -8160,6 +8465,7 @@
         "category": "Special",
         "contestType": "Cool",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1,
             "wind": 1
@@ -8190,6 +8496,7 @@
         },
         "contestType": "Cute",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "nosleeptalk": 1,
             "protect": 1,
@@ -8214,6 +8521,7 @@
         "contestType": "Cool",
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -8232,6 +8540,7 @@
         "contestType": "Tough",
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -8250,6 +8559,7 @@
         "contestType": "Cool",
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -8269,6 +8579,7 @@
         "contestType": "Cool",
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -8291,6 +8602,7 @@
         "contestType": "Tough",
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -8308,6 +8620,7 @@
         "category": "Special",
         "contestType": "Cute",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -8326,6 +8639,7 @@
         "contestType": "Beautiful",
         "flags": {
             "distance": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1,
             "pulse": 1
@@ -8348,19 +8662,29 @@
         "condition": {
             "noCopy": true,
             "onAnyBasePower": "onAnyBasePower",
-            "onBasePowerPriority": 3,
+            "onAnyBasePowerPriority": 3,
             "onStart": "onStart"
         },
-        "flags": {},
+        "contestType": "Cute",
+        "flags": {
+            "metronome": 1,
+            "nonsky": 1
+        },
+        "isNonstandard": null,
         "name": "Water Sport",
         "num": 346,
-        "onTryHitField": "onTryHitField",
         "pp": 15,
         "priority": 0,
+        "pseudoWeather": null,
         "secondary": null,
         "target": "all",
         "type": "Water",
-        "volatileStatus": "watersport"
+        "volatileStatus": "watersport",
+        "zMove": {
+            "boost": {
+                "spd": 1
+            }
+        }
     },
     "waterspout": {
         "accuracy": 100,
@@ -8369,6 +8693,7 @@
         "category": "Special",
         "contestType": "Beautiful",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -8387,6 +8712,7 @@
         "contestType": "Beautiful",
         "flags": {
             "bullet": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -8412,6 +8738,7 @@
         "category": "Special",
         "contestType": "Beautiful",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -8431,6 +8758,7 @@
         "contestType": "Clever",
         "flags": {
             "bypasssub": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -8454,6 +8782,7 @@
         "category": "Status",
         "contestType": "Beautiful",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1,
             "reflectable": 1
@@ -8480,6 +8809,7 @@
         "flags": {
             "contact": 1,
             "distance": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -8502,7 +8832,8 @@
         },
         "contestType": "Cute",
         "flags": {
-            "heal": 1
+            "heal": 1,
+            "metronome": 1
         },
         "name": "Wish",
         "num": 273,
@@ -8527,6 +8858,7 @@
         "category": "Status",
         "contestType": "Cute",
         "flags": {
+            "metronome": 1,
             "snatch": 1
         },
         "name": "Withdraw",
@@ -8549,6 +8881,7 @@
         "contestType": "Tough",
         "flags": {
             "contact": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },
@@ -8575,6 +8908,7 @@
         },
         "contestType": "Cute",
         "flags": {
+            "metronome": 1,
             "mirror": 1,
             "protect": 1,
             "reflectable": 1
@@ -8601,6 +8935,7 @@
         "contestType": "Cool",
         "flags": {
             "bullet": 1,
+            "metronome": 1,
             "mirror": 1,
             "protect": 1
         },

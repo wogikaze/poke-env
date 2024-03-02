@@ -400,7 +400,7 @@ class Player(ABC):
         self,
         opponent: Optional[Union[str, List[str]]],
         n_challenges: int,
-        packed_team: Optional[str],
+        packed_team: Optional[str] = None,
     ):
         """Let the player wait for challenges from opponent, and accept them.
 

@@ -1,6 +1,7 @@
 """This module defines a player class with the OpenAI API on the main thread.
 For a black-box implementation consider using the module env_player.
 """
+
 from __future__ import annotations
 
 import asyncio
@@ -303,7 +304,6 @@ class OpenAIGymEnv(
         self,
         *,
         seed: Optional[int] = None,
-        return_info: bool = False,
         options: Optional[Dict[str, Any]] = None,
     ) -> Tuple[ObsType, Dict[str, Any]]:
         if seed is not None:
@@ -356,7 +356,7 @@ class OpenAIGymEnv(
         :rtype: Tuple[ObsType, float, bool, bool, Dict[str, Any]]
         """
         if not self.current_battle:
-            obs, info = self.reset(return_info=True)
+            obs, info = self.reset()
             return obs, 0.0, False, False, info
         if self.current_battle.finished:
             raise RuntimeError("Battle is already finished, call reset")
@@ -422,9 +422,6 @@ class OpenAIGymEnv(
             self._stop_challenge_loop(purge=purge), POKE_LOOP
         )
         closing_task.result()
-
-    def seed(self, seed: Optional[int] = None):
-        random.seed(seed)
 
     def background_send_challenge(self, username: str):
         """
